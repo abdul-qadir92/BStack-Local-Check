@@ -1,11 +1,18 @@
 # BStack-Local-Check
-Node Binary Check
+BrowserStack Local Node Binary Check
 
 Steps to check the local binary is running on the system:
-npm i
-npm test
+   
+Install the Local package
 
-Expected Output:
-Started BrowserStackLocal
-true
-Stopped BrowserStackLocal
+    npm i
+
+Run the test
+
+    npm test
+
+**Expected Output:**
+
+    Started BrowserStackLocal
+    true
+    Stopped BrowserStackLocal
