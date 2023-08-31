@@ -1,0 +1,15 @@
+{
+  "name": "local-binary",
+  "version": "1.0.0",
+  "description": "To Test the bstack-local flags",
+  "main": "index.js",
+  "scripts": {
+    "test": "node bstack-local.js"
+  },
+  "author": "Qadir Khan",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "browserstack-local": "^1.5.4"
+  }
+}
